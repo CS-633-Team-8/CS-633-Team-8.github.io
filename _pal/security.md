@@ -5,11 +5,14 @@ permalink: /pal/security
 excerpt: 'Security Policy at Team 8'
 date: 2020-02-29
 venue: 'PAL'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://github.com/CS-633-Team-8/cs-633-team-8.github.io/blob/master/files/Data-security-policy.pdf'
+citation: 'Tim, Team 8. (2020). &quot;Team 8 Security Policy&quot; <i>PAL</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Team 8s Security Policy is just a test at the moment.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+For API keys - use local .env files. 
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Add .env to .gitignore
+
+[Download paper here](https://github.com/CS-633-Team-8/cs-633-team-8.github.io/blob/master/files/Data-security-policy.pdf)
+
