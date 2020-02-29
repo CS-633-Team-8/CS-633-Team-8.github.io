@@ -5,11 +5,11 @@ permalink: /pal/public-affaris
 excerpt: 'Public affairs policy'
 date: 2020-02-20
 venue: 'Engineering'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://github.com/CS-633-Team-8/cs-633-team-8.github.io/blob/master/files/145756main_comm_policy_faq.pdf'
+citation: 'NASA, You. (2020). &quot;Public Affairs Policy.&quot; <i>Public Affairs</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This documents details public affairs policy.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://github.com/CS-633-Team-8/cs-633-team-8.github.io/blob/master/files/145756main_comm_policy_faq.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Simon hogg, NASA. (2020). "Team 8 Public Affairs Policy" <i>Public Affairs</i>. 1(1).
