@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome to the Team 8 - Process Excellence"
-excerpt: "About me"
+title: "Welcome to the Team 8 Process Asset Library"
+excerpt: "Team 8 PAL"
 author_profile: true
 redirect_from: 
   - /about/
