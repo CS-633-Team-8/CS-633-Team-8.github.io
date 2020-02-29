@@ -175,44 +175,45 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  pal:
     output: true
     permalink: /:collection/:path/
-  publications:
+  training:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
-  talks:
+    permalink: /:collection/:path
+  tools:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
+  # _pal
   - scope:
       path: ""
-      type: posts
+      type: pal
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
-      related: true
-  # _pages
+  # _training
   - scope:
       path: ""
-      type: pages
+      type: training
     values:
       layout: single
       author_profile: true
-  # _teaching
+      share: true
+      comments: true
+  # _tools
   - scope:
       path: ""
-      type: teaching
+      type: tools
     values:
       layout: single
       author_profile: true
@@ -236,14 +237,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
