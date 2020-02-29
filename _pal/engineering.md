@@ -4,6 +4,7 @@ collection: pal
 permalink: /pal/engineering
 excerpt: 'This page is about Content Standards.'
 date: 2020-02-20
+venue: 'engineering'
 paperurl: 'http://cs-633-team-8.github.io/files/Team-8-Content-Standards.pdf'
 citation: 'Simon Hogg, You. (2020). &quot;CS-633-Team-8 PAL.&quot; <i>Engineering</i>. 1(1).'
 ---
