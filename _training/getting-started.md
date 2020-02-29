@@ -1,4 +1,11 @@
-
+---
+title: "Getting Started"
+collection: training
+permalink: /training/getting-started
+excerpt: 'Getting started'
+date: 2020-02-29
+venue: 'Training'
+---
 ## Installing Node
 
 In order to use  _Express_  you will first have to install  _Nodejs_  and the  [Node Package Manager (NPM)](https://docs.npmjs.com/)  on your operating system. The following sections explain the easiest way to install the Long Term Supported (LTS) version of Nodejs on Ubuntu Linux 18.04, macOS, and Windows 10.
