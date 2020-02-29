@@ -86,7 +86,9 @@ A good user story should be:
 The following format should be used to write user stories
 
 ```
-
+As a [role]
+I want [feature]
+So that [benefit]
 ```
 
 It is important not to forget the “Benefit” part, as everyone should be aware of what value they are adding by developing the story.
@@ -100,7 +102,13 @@ Acceptance criteria should be written at the same time the user story is created
 Each Acceptance Criteria should have a number of Acceptance Tests presented as scenarios written in Gherkin format, e.g.
 
 ```
+Scenario 1: Title
 
+Given [context]
+And [some more context]...
+When  [event]
+Then  [outcome]
+And [another outcome]...
 ```
 
 ## Story Workshops / Sprint Planning
