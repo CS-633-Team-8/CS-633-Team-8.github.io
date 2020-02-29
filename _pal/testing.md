@@ -3,7 +3,7 @@ title: "Testing"
 collection: pal
 permalink: /pal/testing
 excerpt: 'Testing Process Policy'
-date: 2020-02-30
+date: 2020-02-29
 venue: 'Engineering'
 ---
 
