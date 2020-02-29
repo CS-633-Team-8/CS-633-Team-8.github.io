@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome to the Team 8 Process Asset Library"
 excerpt: "Team 8 PAL"
 author_profile: true
+sidebar: true
 redirect_from: 
   - /about/
   - /about.html
