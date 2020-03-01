@@ -1,22 +1,19 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "name": "team-8-pal",
+  "version": "1.0.1",
+  "description": "Team 8 Process Asset Library",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/CS-633-Team-8/cs-633-team-8.github.io.git"
   },
   "keywords": [
     "jekyll",
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": "Simon Hogg",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
-  },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://cs-633-team-8.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },

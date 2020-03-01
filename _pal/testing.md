@@ -7,6 +7,8 @@ date: 2020-02-29
 venue: 'Engineering'
 ---
 
+What follows is the Team 8 testing policy. For examples check out the Testing Examples folder.
+
 ### Unit Testing
 
 **WHY:**  To ensure code is developed correctly
@@ -19,7 +21,7 @@ venue: 'Engineering'
 
 **WHERE:**  Local Dev + CI (part of the build)
 
-**HOW:** Automated, Junit, TestNG, PHPUnit
+**HOW:** Jest, Enzyme
 
 ## API / Service Testing
 

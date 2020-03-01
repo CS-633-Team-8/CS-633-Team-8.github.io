@@ -1,16 +1,15 @@
 # Directory structure
 
-The top-level directory structure for Harold looks like the following diagram:
+The top-level directory structure for our Javascript projects looks like the following diagram:
 
 ```
-Robot
+base_path
 â”œâ”€ build Â·Â·Â·Â·Â·Â·Â·Â·Â·Â· Build packages
 â”œâ”€ docs Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â· Project documentation
 â”œâ”€ flow-typed Â·Â·Â·Â·Â· Flow types for untyped dependencies
 â”œâ”€ packages Â·Â·Â·Â·Â·Â·Â· Public packages
 â”œâ”€ releases Â·Â·Â·Â·Â·Â·Â· Release documentation
 â”œâ”€ typings Â·Â·Â·Â·Â·Â·Â·Â· Exported Flow / TypeScript types
-â”œâ”€ website Â·Â·Â·Â·Â·Â·Â·Â· Website package
 â””â”€ package.json Â·Â·Â· Project config
 ```
 
@@ -20,7 +19,7 @@ The `build` directory is where all build tooling goes that isn't handled by our 
 
 ## Docs
 
-The `docs` directory is where all project documentation lives. It is displayed on the website under "Getting started > Documentation" and is the main source of Atlaskit's documentation.
+The `docs` directory is where all project documentation lives.
 
 ## Packages
 
