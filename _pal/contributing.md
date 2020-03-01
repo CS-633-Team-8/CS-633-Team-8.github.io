@@ -72,7 +72,7 @@ Regardless of how the discussion is triggered, we want to be clear on a few thin
 
 1.  Any initial action items.
 2.  Decide who will be the contributor from the external team.
-3.  Decide who will be the shepherd from within the Atlaskit team.
+3.  Decide who will be the shepherd from within Team 8.
 
 This process may come naturally and not require an initial meeting. For example, a contribution may be very simple, a PR may have already been made and it may be good to go out of the gate. Others may require a bit more formality to keep the quality bar high.
 
